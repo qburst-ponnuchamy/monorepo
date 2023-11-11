@@ -1,8 +1,11 @@
 {
   "version": "0.0.0",
   "packages": [
-    "packages/*"
+    "package/*"
   ],
   "npmClient": "yarn",
-  "private": true
+  "private": true,
+  "publishConfig": {
+    "access": "private"
+  }
 }
