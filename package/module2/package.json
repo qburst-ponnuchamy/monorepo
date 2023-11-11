@@ -1,7 +1,7 @@
 {
-  "name": "module2",
+  "name": "@qburst-ponnuchamy/module2",
   "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
-  "gitHead": "a9311512958d5811551fbe02ab15db63cc021644"
+  "gitHead": "dea4692e208bdd5e137678d4677836732de24f7b"
 }

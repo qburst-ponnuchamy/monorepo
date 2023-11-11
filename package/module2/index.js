@@ -1,4 +1,4 @@
 console.log('module2')
 
-require('module1')
+require('@qburst-ponnuchamy/module1')
 
