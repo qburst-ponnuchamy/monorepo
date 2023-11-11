@@ -2,6 +2,7 @@
   "name": "@qburst-ponnuchamy/module2",
   "version": "1.0.3",
   "main": "index.js",
+  "private": true,
   "license": "MIT",
   "gitHead": "23537120e9c3a7b2a9b98bc6fd2008cb1458de82",
   "publishConfig": {
